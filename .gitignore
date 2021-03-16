@@ -1,0 +1,5 @@
+# Project exclude paths
+/scf_article/target/
+/scf_base/target/
+/scf_common/target/
+/scf_recruit/target/
