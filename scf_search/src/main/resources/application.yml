@@ -1,0 +1,8 @@
+server:
+  port: 9007
+spring:
+  application:
+    name: scf-search
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.87.129:9300

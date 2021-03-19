@@ -17,6 +17,7 @@
         <module>scf_article</module>
         <module>scf_gathering</module>
         <module>scf_spit</module>
+        <module>scf_search</module>
     </modules>
 
     <parent>

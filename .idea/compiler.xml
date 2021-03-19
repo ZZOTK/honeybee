@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="scf_article" />
+        <module name="scf_search" />
         <module name="scf_gathering" />
         <module name="scf_qa" />
         <module name="scf_recruit" />
@@ -29,6 +30,7 @@
       <module name="scf_gathering" options="-parameters" />
       <module name="scf_qa" options="-parameters" />
       <module name="scf_recruit" options="-parameters" />
+      <module name="scf_search" options="-parameters" />
       <module name="scf_spit" options="-parameters" />
       <module name="untitled" options="" />
     </option>
